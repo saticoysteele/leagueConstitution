@@ -1,4 +1,4 @@
-# (League Name Here) Dynasty League Constitution #
+# Shadynasty League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
@@ -26,25 +26,31 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Eli Manning__
-> (800) 588-2300
+__SaticoySteele__
+> Nathan Kolb
 
-> 3LI@ManningFace.com
+> Sleeper: SaticoySteele
+
+> Email: filawsepheyez@gmail.com
 
 <br>
 
 ### Co-Commissioners ###
-__Odell Beckham Jr.__
-> (877) 393-4448
+__etron56__
+> Ethan Evans
 
-> OBJesus@onehandcatches.com 
+> Sleeper: etron56
+
+> Email: ethanlevans@gmail.com
 
 <br>
 
-__Saquan Barkley__
-> (800) 605-3369
+__AggieKappaSig__
+> Christopher Pinto
 
-> TheQuadfather@demthighs.com
+> Sleeper: AggieKappaSig
+
+> Email: aggiekappasig@gmail.com
 
 <br>
 
@@ -72,41 +78,52 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 
 ### Entry Fee ###
 - The Entry Fee for the league is $50 per team.
-- Must be paid at minimum 2 weeks before the draft (startup or rookie).
+- Your entry fee covers the first two seasons of the league at $25 per season
+- Must be paid in full before the draft.
 
 ### Yearly Dues ###
 
-- After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
-- Dues must also be paid for any year a team trades draft picks in.
+- After the first year there is a yearly total of $25 due
+- Your yearly due must be paid before the Rookie Draft, and before taking part in any offseason trades.
 
 ### Penalties ###
-If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
+If a team does not pay their dues by the designated date they are not eligible to participate in the draft -- it will be up to the commissioners discretion on whether or not to replace them. If you have an issue that precludes you from being able to pay on time, you can speak with the commissioners about postponing payment, but this must be done at least 2 weeks prior to the draft. 
 
 <br><br>
 
 ## __Section III - Payout__ ##
-- 1st Place: $450 (75%)
-- 2nd Place: $75 (12.5%)
-- 3rd Place: $50 (8.34%)
-
-Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
+- 1st Place: $150 (50%)
+- 2nd Place: $100 (33.3%)
+- Highest Total Points For (Regular Season): $50 (16.6%)
 
 <br><br>
 
 ## __Section IV - Rosters__ ##
 
-
+### Roster Spots ###
    Position | Starters | Maximum
    -------- |--------- | -------
    QB | 1 | No Limit
    RB | 2 | No Limit
    WR | 3 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
-   D/ST | 1 | No Limit
-   K | 1 | No Limit
-   BE | 16 | No Limit
-   IR | 3 | No Limit
+   FLEX (RB/WR/TE) | 1 | No Limit
+   FLEX (WR/TE) | 1 | No Limit
+   D/ST | 1 | 2
+   BE | 14 | n/a
+   IR | 3 | n/a
+
+
+### Taxi Squad ###
+ - Each team will be provided a Taxi Squad with 4 spots available.
+ - Only rookie players will be allowed to be added to your Taxi Squad, whether obtained through the rookie draft or free agency. 
+ - Your taxi squad must be set by the Roster Cutdown date - any player removed after this date will not be eligible to return to your Taxi Squad. 
+ - Once a player is activated from the Taxi Squad, their spot cannot be filled again until the following season. 
+ - Players will be allowed to remain on your Taxi Squad for up to 2 full seasons before needing to be activated or waived. 
+
+### Roster Expansion & Cutdown ###
+ - Prior to the Rookie Draft, rosters will be expanded to a total of 32 spots to allow for incoming draft picks and potentially free agent acquisitions.
+ - __Roster cutdowns will occur in Mid-August, at which time your Taxi Squad will be established and players must be cut to establish your regular season roster.__
 
 <br><br>
 
@@ -115,28 +132,23 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 ### Free Agency ###
 
 - Each team will receive $100 for a Free Agency Aquisition Budget
-- Minimum bid to get a FA off waivers is $1
+- Minimum bid to get a FA off waivers is $0
 - Per transaction fee is $0
-- FAAB dollars are not tradeable
+- FAAB dollars are tradeable
 - There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the championship ends.
+- __Free agency locks a week after the championship ends.__
 
 
 ### Trades ###
-- Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
-- During the offseason trading is still allowed.
+- __Trades will be processed right away, if collusion is suspected the matter will be put to a vote.__
+- During the offseason trading is still allowed (provided dues have been paid in full).
 - Trade deadline begins as soon as the first playoff game starts.
-- Draft picks up to 3 years in the future are tradable.
-- Teams must pay dues for any year they trade draft picks in.
+- Draft picks up to 2 years in the future are tradable.
 
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
-- Will take place (Insert Date Here) on (Insert Platform Here).
-- Snake format (1st to 12th then 12th to 1st).
-- Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick.
-- Trading draft picks is allowed during the startup draft.
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
+- Has already been conducted
 
 <br><br>
 
@@ -144,19 +156,19 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-6 will be assigned in inverse order of the regular season standings.
-- Picks 7-12 will be assigned in inverse order of the postseason standings
-- An additional pick (1.13) will be awarded to the winner of the consolation bracket
+- Picks 1-6 will be assigned in inverse order of (regular season Points For + playoff Potential Points For).
+- Picks 7-12 will be assigned in inverse order of playoff seeding, with the exception of 11/12 which will be decided by the Championship
+- __An additional pick (1.13) will be awarded to the winner of the consolation bracket__
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
-- The rookie draft will take place the day immediately following the completion of the NFL draft.
-- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-- Each day the draft will last from 9AM to 9PM with each team having 30 mins per pick.
+- The rookie draft will be scheduled following the NFL draft, typically within a month. 
+- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.) beginning in 2022.
+- Once begun, the draft room will be open 24 hours a day with each team having 4 hours per pick.
 - Trading draft picks is allowed during the rookie draft
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
 
-__Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
+__If a player is unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
 <br><br>
 
@@ -164,28 +176,24 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Divisions ###
 
-- There will be four divisions that teams will be randomly assigned to upon joining the league.
-- Divisions will follow NFL division naming (North, South, East, West)
-- Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
+- There will be a single division
 
 ### Regular Season Schedule ###
 - The regular season lasts from week 1 to week 13.
-- Teams will play their first and last two matches against the other teams in their division.
-- The rest of the matches will be randomly determined at the beginning of the season.
+- Matches will be randomly determined at the beginning of the season.
 - Playoffs begin week 14 with the championship game occuring week 16.
+- __As of 2021, the NFL Season has expanded to a 17 game season. For the first year we will be maintaining the traditional Week 16 Championship, but will revisit this in 2022.__
 
 <br><br>
 
 ## __Section IX - Playoffs__ ##
 
 ### Championship Bracket ###
-- The two teams with the best regular season records will be assigned to the top two seeds.
-- The next three teams will be assigned their playoff seeding spot based on regular season record.
-- The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
+- All 6 Playoff teams will be determined by their Regular Season Record, using Total Points For as a tiebreaker. Head-to-Head record may be used as a further tiebreaker if necessary. 
 
 ### Consolation Bracket ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
+- __The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).__
 - The consolation bracket has no bearing on draft order.
 
 <br><br>
@@ -196,7 +204,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
     <tr>
     <td>Passing</td>
     <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>2</td>
+    <td>.04<br>-1<br>4<br>2</td>
     </tr>
      <tr>
         <td>Rushing</td>
@@ -206,7 +214,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       <tr>
         <td>Receiving</td>
         <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
-        <td>0.1<br>6<br>2<br>1</td>
+        <td>0.1<br>6<br>2<br>.5</td>
       </tr>
       <tr>
         <td>Miscellaneous </td>
@@ -214,9 +222,8 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
         <td>-2</td>
       </tr>
       <tr>
-        <td>Kicking</td>
-        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-39 Yard) (FG0)<br>Each Field Goal Made (40-49 Yard) (FG40)<br>Each Field Goal Made (50+)(FG50)<br>Field Goal Missed (FGM)</td>
-        <td>1<br>3<br>4<br>5<br>-1</td>
+        <td>Defense / Special Teams</td>
+        <td>See Sleeper Settings</td>
       </tr>
     </table>
 
