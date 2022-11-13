@@ -45,15 +45,6 @@ __etron56__
 
 <br>
 
-__AggieKappaSig__
-> Christopher Pinto
-
-> Sleeper: AggieKappaSig
-
-> Email: aggiekappasig@gmail.com
-
-<br>
-
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
 <br>
@@ -109,9 +100,8 @@ If a team does not pay their dues by the designated date they are not eligible t
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 1 | No Limit
    FLEX (WR/TE) | 1 | No Limit
-   D/ST | 1 | 2
-   BE | 14 | n/a
-   IR | 3 | n/a
+   BE | 15 | n/a
+   IR | 4 | n/a
 
 
 ### Taxi Squad ###
@@ -158,14 +148,14 @@ If a team does not pay their dues by the designated date they are not eligible t
 - The draft order for the rookie draft will be determined based on both regular and post-season results
 - Picks 1-6 will be assigned in inverse order of (regular season Points For + playoff Potential Points For).
 - Picks 7-12 will be assigned in inverse order of playoff seeding, with the exception of 11/12 which will be decided by the Championship
-- __An additional pick (1.13) will be awarded to the winner of the consolation bracket__
 
 ### Rookie Draft Settings ###
-- There will be 4 rounds of the rookie draft.
+- There will be 5 rounds of the rookie draft.
 - The rookie draft will be scheduled following the NFL draft, typically within a month. 
-- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.) beginning in 2022.
+- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.).
 - Once begun, the draft room will be open 24 hours a day with each team having 4 hours per pick.
 - Trading draft picks is allowed during the rookie draft
+- Draft will consist of both rookies and veteran Free Agents
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
 
 __If a player is unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
@@ -179,10 +169,9 @@ __If a player is unavailable in the database you must message the commissioner o
 - There will be a single division
 
 ### Regular Season Schedule ###
-- The regular season lasts from week 1 to week 13.
+- The regular season lasts from week 1 to week 14.
 - Matches will be randomly determined at the beginning of the season.
-- Playoffs begin week 14 with the championship game occuring week 16.
-- __As of 2021, the NFL Season has expanded to a 17 game season. For the first year we will be maintaining the traditional Week 16 Championship, but will revisit this in 2022.__
+- Playoffs begin week 15 with the championship game occuring week 17.
 
 <br><br>
 
@@ -193,7 +182,6 @@ __If a player is unavailable in the database you must message the commissioner o
 
 ### Consolation Bracket ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- __The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).__
 - The consolation bracket has no bearing on draft order.
 
 <br><br>
@@ -220,10 +208,6 @@ __If a player is unavailable in the database you must message the commissioner o
         <td>Miscellaneous </td>
         <td>Total Fumbles Lost</td>
         <td>-2</td>
-      </tr>
-      <tr>
-        <td>Defense / Special Teams</td>
-        <td>See Sleeper Settings</td>
       </tr>
     </table>
 
