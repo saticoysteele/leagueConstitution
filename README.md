@@ -108,7 +108,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
    SFLEX (QB/RB/WR/TE) | 1 | No Limit
-   BE | 14 | n/a
+   BE | 18 | n/a
    IR | 4 | n/a
 
 
